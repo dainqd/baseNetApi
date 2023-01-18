@@ -11,7 +11,7 @@ You need to run it locally by following these steps:
 1. Download and install Xampp (choose the version with PHP 8.1): https://www.apachefriends.org/download.html (for MacOS, use MAMP)
 2. Open Xampp and start Apache & MySQL
 3. In your browser go to http://localhost/phpmyadmin and create a new database with collation utf8mb4_unicode_ci then import the attached .sql file (optional)
-4. Download the source code and open it on your IDE (such as Visual Studio application(https://visualstudio.microsoft.com/fr/) or Rider(https://www.jetbrains.com/rider/)
+4. Download the source code and open it on your IDE (such as using Visual Studio application(https://visualstudio.microsoft.com/fr/) or Rider(https://www.jetbrains.com/rider/)
 5. Clone the project at GitHub: https://github.com/dainqd/baseNetApi
 6. Open the editor and download the required libraries in the next step
 7. At the NuGet download port of the editor, download the following NugetPackage with the command: dotnet add package + Nuget name + --version
